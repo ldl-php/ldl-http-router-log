@@ -1,0 +1,1 @@
+[2020-09-14T11:41:30.449108-03:00] LogExceptionHandler.ERROR: Route: /student/v1.0/lis?name=GON&age=5 , Message: Route student/v1.0/lis does not exist [] []
